@@ -1,0 +1,15 @@
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.py
+requirements.txt
+venv/
+.env
+
+# Data & Config
+config/
+data/
+reports/
+*.db
+*.sqlite3
