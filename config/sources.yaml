@@ -1,0 +1,210 @@
+sources:
+  # ==========================================
+  # LEVEL 1 — OFFICIAL RECRUITMENT SOURCES
+  # ==========================================
+
+  # SSC
+  - name: SSC
+    display_name: "Staff Selection Commission"
+    url: "https://ssc.gov.in"
+    category: "ssc"
+    priority: "high"
+    target_posts: ["CGL", "CHSL", "Selection Post", "JE", "CPO"]
+
+  # UPSC
+  - name: UPSC
+    display_name: "Union Public Service Commission"
+    url: "https://upsc.gov.in"
+    category: "upsc"
+    priority: "high"
+    target_posts: ["Civil Services", "CDS", "Specialist IT", "EPFO"]
+
+  # RAILWAYS
+  - name: RRB_CENTRAL
+    display_name: "Railway Recruitment Board (Central Portal)"
+    url: "https://www.rrbapply.gov.in"
+    category: "railways"
+    priority: "high"
+    target_posts: ["RRB NTPC Graduate", "RRB JE CS/IT", "RRB ALP", "RRB Technician"]
+
+  # BANKING & FINANCIAL REGULATORS
+  - name: IBPS
+    display_name: "Institute of Banking Personnel Selection"
+    url: "https://www.ibps.in"
+    category: "banking"
+    priority: "high"
+    target_posts: ["CRP PO/MT", "CRP Clerk", "CRP SO IT Officer"]
+
+  - name: SBI
+    display_name: "State Bank of India Careers"
+    url: "https://sbi.bank.in/web/careers/current-openings"
+    category: "banking"
+    priority: "high"
+    target_posts: ["SBI PO", "SBI SCO (IT/Systems)", "SBI Clerk"]
+
+  - name: RBI
+    display_name: "Reserve Bank of India"
+    url: "https://www.rbi.org.in"
+    category: "banking"
+    priority: "high"
+    target_posts: ["RBI Grade B", "RBI Assistant"]
+
+  - name: SEBI
+    display_name: "Securities and Exchange Board of India"
+    url: "https://www.sebi.gov.in"
+    category: "banking"
+    priority: "high"
+    target_posts: ["Grade A Officer (Information Technology)"]
+
+  - name: NABARD
+    display_name: "National Bank for Agriculture and Rural Development"
+    url: "https://www.nabard.org"
+    category: "banking"
+    priority: "medium"
+    target_posts: ["Grade A Assistant Manager (IT)"]
+
+  # SCIENTIFIC & RESEARCH ORGANISATIONS
+  - name: ISRO
+    display_name: "Indian Space Research Organisation"
+    url: "https://www.isro.gov.in/Careers.html"
+    category: "isro"
+    priority: "high"
+    target_posts: ["Scientist/Engineer 'SC' (Computer Science)", "Apprentice"]
+
+  - name: DRDO_RAC
+    display_name: "DRDO Recruitment and Assessment Centre (RAC)"
+    url: "https://rac.gov.in"
+    category: "drdo"
+    priority: "high"
+    target_posts: ["Scientist 'B' (Computer Science & Engineering)"]
+
+  - name: BARC
+    display_name: "Bhabha Atomic Research Centre"
+    url: "https://www.barc.gov.in"
+    category: "scientific"
+    priority: "high"
+    target_posts: ["OCES/DGFS Computer Science", "Technical Officer"]
+
+  # GOVERNMENT IT & MEITY ENTITIES
+  - name: NIC_NIELIT
+    display_name: "National Informatics Centre / NIELIT"
+    url: "https://recruitment.nic.in"
+    category: "scientific"
+    priority: "high"
+    target_posts: ["Scientist B (CS/IT)", "Scientific/Technical Assistant A"]
+
+  - name: CDAC
+    display_name: "Centre for Development of Advanced Computing"
+    url: "https://www.cdac.in"
+    category: "scientific"
+    priority: "high"
+    target_posts: ["Project Engineer", "Software Developer", "Project Associate"]
+
+  # DEFENCE FORCES
+  - name: INDIAN_ARMY
+    display_name: "Join Indian Army"
+    url: "https://joinindianarmy.nic.in"
+    category: "defence"
+    priority: "high"
+    target_posts: ["TGC (Technical Graduate Course)", "SSC Tech Men"]
+
+  - name: INDIAN_NAVY
+    display_name: "Join Indian Navy"
+    url: "https://www.joinindiannavy.gov.in"
+    category: "defence"
+    priority: "high"
+    target_posts: ["SSC Executive (Information Technology)"]
+
+  - name: INDIAN_AIRFORCE
+    display_name: "Indian Air Force AFCAT"
+    url: "https://afcat.cdac.in"
+    category: "defence"
+    priority: "high"
+    target_posts: ["AFCAT Technical (Computer / IT)", "Non-Technical"]
+
+  # PUBLIC SECTOR UNDERTAKINGS (PSUs)
+  - name: BEL
+    display_name: "Bharat Electronics Limited"
+    url: "https://bel-india.in/job-notifications/"
+    category: "psu"
+    priority: "high"
+    target_posts: ["Project Engineer (CS)", "Trainee Engineer", "Probationary Engineer"]
+
+  - name: ECIL
+    display_name: "Electronics Corporation of India Limited"
+    url: "https://www.ecil.co.in/jobs.html"
+    category: "psu"
+    priority: "medium"
+    target_posts: ["Technical Officer", "Graduate Engineer Trainee"]
+
+  - name: POWERGRID
+    display_name: "Power Grid Corporation of India Limited"
+    url: "https://www.powergrid.in/careers"
+    category: "psu"
+    priority: "medium"
+    target_posts: ["Engineer Trainee (Computer Science)"]
+
+  - name: NTPC
+    display_name: "NTPC Limited"
+    url: "https://careers.ntpc.co.in"
+    category: "psu"
+    priority: "medium"
+    target_posts: ["Engineering Executive Trainee (IT/CS)"]
+
+  - name: COAL_INDIA
+    display_name: "Coal India Limited"
+    url: "https://www.coalindia.in/career"
+    category: "psu"
+    priority: "medium"
+    target_posts: ["Management Trainee (Systems / CS)"]
+
+  # STATE RECRUITMENT BODIES
+  - name: DSSSB_DELHI
+    display_name: "Delhi Subordinate Services Selection Board"
+    url: "https://dsssb.delhi.gov.in"
+    category: "state"
+    priority: "medium"
+    target_posts: ["IT Assistant", "Programmer", "Junior Judicial Assistant"]
+
+  - name: BPSC_BIHAR
+    display_name: "Bihar Public Service Commission"
+    url: "https://bpsc.bihar.gov.in"
+    category: "state"
+    priority: "medium"
+    target_posts: ["CCE (Any Graduate)", "Assistant Programmer"]
+
+  - name: JSSC_JHARKHAND
+    display_name: "Jharkhand Staff Selection Commission"
+    url: "https://jssc.jharkhand.gov.in"
+    category: "state"
+    priority: "medium"
+    target_posts: ["JSSC CGL (Any Graduate)", "IT Technical Posts"]
+
+  - name: MPPSC_MP
+    display_name: "Madhya Pradesh Public Service Commission"
+    url: "https://mppsc.mp.gov.in"
+    category: "state"
+    priority: "medium"
+    target_posts: ["State Services Exam", "Programmer / System Analyst"]
+
+  - name: KPSC_KARNATAKA
+    display_name: "Karnataka Public Service Commission"
+    url: "https://kpsc.kar.nic.in"
+    category: "state"
+    priority: "medium"
+    target_posts: ["Gazetted Probationers", "Assistant Engineer", "IT Officer"]
+
+  # APPRENTICESHIPS & INTERNSHIPS
+  - name: NATS_PORTAL
+    display_name: "National Apprenticeship Training Scheme (NATS 2.0)"
+    url: "https://nats.education.gov.in"
+    category: "apprentice"
+    priority: "high"
+    target_posts: ["Graduate Apprentice (Engineering / CS)", "Bank Apprentice", "PSU Apprentice"]
+
+  - name: MEITY_INTERNSHIP
+    display_name: "Digital India / MeitY Internship Scheme"
+    url: "https://intern.meity.gov.in"
+    category: "apprentice"
+    priority: "medium"
+    target_posts: ["Digital India Intern", "NeGD Technical Intern"]
