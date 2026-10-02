@@ -12,6 +12,28 @@ A curated repository of high-yield government opportunities, legal eligibility f
 
 ---
 
+## 📂 Individual Job Dossiers (`jobs/`)
+
+Explore dedicated, self-contained files for each major job containing every detail (Salary, Perks, Eligibility, Application Link, Documents, Syllabus, Cutoffs, Deadlines):
+👉 **[View All Dedicated Job Files in `jobs/`](./jobs/README.md)**
+
+* **[`jobs/01_IBPS_RRB_15th_Gramin_Bank.md`](./jobs/01_IBPS_RRB_15th_Gramin_Bank.md)**: Gramin Bank Office Assistant & Officer Scale-I (13,706 Posts, No English in Prelims).
+* **[`jobs/02_IBPS_Clerk_CRP_XVI.md`](./jobs/02_IBPS_Clerk_CRP_XVI.md)**: Clerical Cadre across 11 PSBs (11,403 Posts, Zero Interview).
+* **[`jobs/03_Railway_RRB_Junior_Engineer_CEN_04_2026.md`](./jobs/03_Railway_RRB_Junior_Engineer_CEN_04_2026.md)**: RRB JE IT & Engineering (7,951 Posts, Level 6).
+* **[`jobs/04_Railway_RRB_NTPC_Under_Graduate_and_Graduate.md`](./jobs/04_Railway_RRB_NTPC_Under_Graduate_and_Graduate.md)**: RRB NTPC (11,558 Posts, Active until Nov 2026).
+* **[`jobs/05_BEL_Probationary_Engineer_and_Sr_Asst.md`](./jobs/05_BEL_Probationary_Engineer_and_Sr_Asst.md)**: BEL Navratna PSU (340 Posts, CTC ₹11.5–12.2 LPA).
+* **[`jobs/06_Indian_Army_TGC_145_Lieutenant.md`](./jobs/06_Indian_Army_TGC_145_Lieutenant.md)**: Permanent Commission Lieutenant (₹0 Application Fee, Level 10).
+* **[`jobs/07_Supreme_Court_Junior_Court_Assistant.md`](./jobs/07_Supreme_Court_Junior_Court_Assistant.md)**: Supreme Court of India JCA (Level 6, New Delhi posting).
+* **[`jobs/08_MPESB_Group_3_Sub_Engineer.md`](./jobs/08_MPESB_Group_3_Sub_Engineer.md)**: Sub-Engineer PWD/WRD (~1,700 Posts, Single Exam, Zero Interview).
+* **[`jobs/09_Canara_Bank_Graduate_Apprentice.md`](./jobs/09_Canara_Bank_Graduate_Apprentice.md)**: Canara Bank Apprentice (3,500 Posts, 100% Merit, Zero Exam).
+* **[`jobs/10_NIC_NIELIT_Scientific_Technical_Assistant_A.md`](./jobs/10_NIC_NIELIT_Scientific_Technical_Assistant_A.md)**: MeitY NIC Technical Assistant 'A' (Level 6, Zero Interview).
+* **[`jobs/11_MP_Police_Sub_Inspector_Technical_Radio.md`](./jobs/11_MP_Police_Sub_Inspector_Technical_Radio.md)**: Sub-Inspector Radio/Technical (655 Posts, Two-Star Officer).
+* **[`jobs/12_DMRC_Mumbai_Metro_Line_3_Operations.md`](./jobs/12_DMRC_Mumbai_Metro_Line_3_Operations.md)**: DMRC Mumbai Metro Line 3 Junior Engineer & Train Operator.
+* **[`jobs/13_SSC_CGL_and_CHSL_Recruitments.md`](./jobs/13_SSC_CGL_and_CHSL_Recruitments.md)**: SSC CGL (17,727 Posts) & CHSL (2,536 Posts).
+* **[`jobs/14_ISRO_ICRB_Scientist_Engineer_SC.md`](./jobs/14_ISRO_ICRB_Scientist_Engineer_SC.md)**: ISRO Scientist/Engineer 'SC' (Computer Science, Level 10 Gazetted).
+
+---
+
 ## 📚 Master Strategic Guides
 
 | Guide | Description | Key Focus |
