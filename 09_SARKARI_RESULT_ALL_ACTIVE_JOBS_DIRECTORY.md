@@ -15,6 +15,7 @@
 5. [High Courts & Judicial Service Recruitments](#5-high-courts--judicial-service-recruitments)
 6. [Police, Defence & Armed Forces Recruitments (SI & Officers)](#6-police-defence--armed-forces-recruitments)
 7. [Polytechnic Diploma Specific & Sub-Engineer Vacancies](#7-polytechnic-diploma-specific--sub-engineer-vacancies)
+8. [SarkariNaukri.com Exclusive: PSU Engineers, Metro Rail & Research Vacancies](#8-sarkarinaukricom-exclusive-psu-engineers-metro-rail--research-vacancies)
 
 ---
 
@@ -346,6 +347,69 @@
 
 ---
 
+## 8. SarkariNaukri.com Exclusive: PSU Engineers, Metro Rail & Research Vacancies
+
+### 8.1 Bharat Electronics Limited (BEL) — 340 Probationary Engineer Positions 2026
+* **Organization:** Bharat Electronics Limited (Navratna PSU, Ministry of Defence).
+* **Posts:** Probationary Engineer (Computer Science, Electronics, Mechanical).
+* **Total Posts:** **340 Vacancies** (Pan-India units: Bengaluru, Ghaziabad, Hyderabad, Pune).
+* **Eligibility:** B.E. / B.Tech in Computer Science / IT / Electronics with First Class (Pass Class for SC/ST/PwBD).
+* **Salary Structure:** E-II Grade (Pay Scale ₹40,000 – ₹1,40,000). **Gross Monthly Salary:** **~₹85,000 – ₹95,000/month** (CTC: ~₹11.5 – ₹12.2 Lakhs/annum + PRP performance bonus).
+* **Selection Process:** All-India Computer-Based Test (85% weightage) + Interview (15% weightage).
+* **Official Apply Portal:** [https://bel-india.in/careers/](https://bel-india.in/careers/)
+
+---
+
+### 8.2 Delhi Metro Rail Corporation (DMRC) — Mumbai Metro Line-3 Operations 2026
+* **Organization:** DMRC on behalf of Mumbai Metro Rail Corporation (MMRCL).
+* **Posts:** Junior Engineer (Systems / IT / Signaling), Station Controller / Train Operator (SC/TO), Customer Relations Assistant.
+* **Eligibility:** 3-Year Engineering Diploma OR B.Tech in CSE / IT / Electronics / Electrical.
+* **Salary:** Junior Engineer starts at IDA Pay Scale ₹37,000 – ₹1,15,000. **Gross: ~₹55,000 – ₹65,000/month**.
+* **Selection Process:** CBT Paper-I (Technical & General Aptitude) + CBT Paper-II (English) + Psycho Test (for Train Operator) + Medical.
+* **Official Portal:** [https://www.delhimetrorail.com/corporate/careers](https://www.delhimetrorail.com/corporate/careers)
+
+---
+
+### 8.3 MPPGCL — Technical & Administrative Cadres Recruitment 2026
+* **Organization:** Madhya Pradesh Power Generating Company Limited (MPPGCL).
+* **Posts:** Assistant Engineer (IT / Systems) & Junior Engineer (Plant Operations).
+* **Total Posts:** **131 Vacancies**.
+* **Eligibility:** B.E. / B.Tech in Computer Science / IT OR 3-Year Diploma in Engineering.
+* **Salary:** AE Pay Matrix Level 12 (Basic ₹56,100). **Gross: ~₹80,000/month**. JE Level 8 (Basic ₹32,800). **Gross: ~₹48,000/month**.
+* **Selection Process:** Single-stage Online CBT Examination without negative marking!
+* **Official Portal:** [https://www.mppgcl.mp.gov.in](https://www.mppgcl.mp.gov.in)
+
+---
+
+### 8.4 MP Metro Rail Corporation Limited (MPMRCL) — Manager & Assistant Manager
+* **Organization:** Madhya Pradesh Metro Rail Corporation (Bhopal & Indore Metro Projects).
+* **Posts:** Assistant Manager (IT, Signaling & Telecom, AFC - Automated Fare Collection).
+* **Eligibility:** B.Tech in CSE / IT / Electronics.
+* **Salary:** IDA Pay Scale ₹50,000 – ₹1,60,000. **Gross: ~₹75,000 – ₹85,000/month**.
+* **Selection Process:** Computer-Based Test + Personal Interview.
+* **Official Portal:** [https://www.mpmetrorail.com](https://www.mpmetrorail.com)
+
+---
+
+### 8.5 Konkan Railway Corporation Limited (KRCL) — Technical Walk-In Drive 2026
+* **Organization:** KRCL (Ministry of Railways Undertaking).
+* **Posts:** Project Engineers (IT / Telecom) & Technical Assistants.
+* **Selection Process:** **Direct Walk-In Interview** (No written exam! Academic merit + technical interview).
+* **Stipend / Salary:** Fixed Consolidated Remuneration ₹35,000 – ₹45,000/month.
+* **Official Portal:** [https://konkanrailway.com](https://konkanrailway.com)
+
+---
+
+### 8.6 ICAR - Indian Agricultural Research Institute (IARI) — Young Professional-I & IT Associates
+* **Organization:** Indian Council of Agricultural Research (ICAR-IARI, Pusa, New Delhi).
+* **Posts:** Young Professional-I (Information Technology / Software Development).
+* **Eligibility:** B.Tech in CSE / IT / BCA / MCA. Knowledge of Python / React / Database management.
+* **Monthly Emoluments:** **₹30,000/month (Lump sum consolidated)**.
+* **Selection Process:** Online Video Interview / Screening.
+* **Official Portal:** [https://www.iari.res.in](https://www.iari.res.in)
+
+---
+
 ## 📌 Master Application Tracking Checklist (Sorted by Upcoming Deadline)
 
 | Post / Exam Name | Organization | Total Posts | Minimum Qualification | Application Last Date | Direct Apply Portal |
@@ -359,10 +423,13 @@
 | **RRB Paramedical (CEN 05/2026)** | Railways | 590 | 10+2 / Diploma / Degree | **14 Oct 2026** | [rrbapply.gov.in](https://www.rrbapply.gov.in) |
 | **CSIR NEERI Technical Officer** | CSIR | 13 | B.Tech / Diploma | **15 Oct 2026** | [neeri.res.in](https://neeri.res.in) |
 | **BEL Senior Assistant Engineer** | BEL (Defence) | Various | 3-Year Diploma | **16 Oct 2026** | [bel-india.in](https://bel-india.in) |
+| **BEL Probationary Engineer (CS/IT)** | BEL (Navratna PSU) | 340 | B.Tech CSE / IT | **18 Oct 2026** | [bel-india.in](https://bel-india.in) |
 | **Canara Bank Graduate Apprentice** | Canara Bank | 3,500 | Any Graduate (B.Tech) | **17 Oct 2026** | [canarabank.com](https://canarabank.com) |
+| **MPPGCL Assistant & Junior Engineer** | MPPGCL (Power) | 131 | B.Tech / Diploma | **24 Oct 2026** | [mppgcl.mp.gov.in](https://mppgcl.mp.gov.in) |
 | **MPESB Group 3 Sub-Engineer** | MPESB | 1,700 | 3-Year Diploma / B.Tech | **27 Oct 2026** | [esb.mp.gov.in](https://esb.mp.gov.in) |
 | **ITBP Head Constable (Technical)** | ITBP (CAPF) | 37 | 10+2 / Diploma | **27 Oct 2026** | [recruitment.itbpolice.nic.in](https://recruitment.itbpolice.nic.in) |
 | **Assam Rifles Technical Rally** | Assam Rifles | Various | 10th / Diploma / Degree | **28 Oct 2026** | [assamrifles.gov.in](https://assamrifles.gov.in) |
 | **Indian Army TGC-145 (Lieutenant)** | Indian Army | 30 (CS) | B.Tech CSE (Fresher) | **29 Oct 2026** | [joinindianarmy.nic.in](https://joinindianarmy.nic.in) |
+| **DMRC Non-Executive (Metro Line 3)** | DMRC / MMRCL | Various | Diploma / B.Tech | **04 Nov 2026** | [delhimetrorail.com](https://delhimetrorail.com) |
 | **UPSSSC Physical Instructor / Youth Officer** | UPSSSC | 412 | Any Graduate | **06 Nov 2026** | [upsssc.gov.in](https://upsssc.gov.in) |
 | **Railway RRB NTPC Under-Graduate (CEN 07/2026)** | RRB | 3,445 | 10+2 / 3-Yr Diploma | **13 Nov 2026** | [rrbapply.gov.in](https://www.rrbapply.gov.in) |
