@@ -32,6 +32,8 @@
 23. [Reserve Bank of India — RBI Grade B (General) Officer](#23-reserve-bank-of-india--rbi-grade-b-general-officer)
 24. [Staff Selection Commission — SSC CGL (ASO, IT, GST, CBI)](#24-staff-selection-commission--ssc-cgl-aso-it-gst-cbi)
 25. [Union Public Service Commission — Civil Services Exam (UPSC CSE)](#25-union-public-service-commission--civil-services-exam-upsc-cse)
+26. [IBPS RRB 15th (Gramin Bank) — Office Assistant & Officer Scale-I (13,706 Posts)](#26-ibps-rrb-15th-gramin-bank--office-assistant--officer-scale-i-13706-posts)
+27. [IBPS Clerk CRP XVI — Clerical Cadre Recruitment 2026](#27-ibps-clerk-crp-xvi--clerical-cadre-recruitment-2026)
 
 ---
 
@@ -724,3 +726,71 @@
 * **Selection:** Prelims (GS-I 200m + CSAT 200m) $\rightarrow$ Mains (9 Papers: 1750m) $\rightarrow$ Personality Test (275m).
 * **Schedule:** Notification: **10 February 2027**; Prelims: **23 May 2027**.
 * **Direct Official Links:** [https://upsconline.nic.in](https://upsconline.nic.in) & [https://upsc.gov.in](https://upsc.gov.in)
+
+---
+
+## 26. IBPS RRB 15th (Gramin Bank) — Office Assistant & Officer Scale-I (13,706+ Posts)
+
+* **Organization & Post:** Institute of Banking Personnel Selection (IBPS) on behalf of 43 Regional Rural Banks (RRBs) across India.
+* **Posts:** 
+  1. Office Assistant (Multipurpose) — Clerical Grade
+  2. Officer Scale-I (Assistant Manager / PO)
+  3. Officer Scale-II & III (Specialist / Senior Manager)
+* **Job Profile & Benefits:**
+  * Rural and semi-urban banking operations, agricultural and MSME credit, account management, DBT government subsidy disbursement.
+  * **Benefits:** Home state / local region postings (minimal transfers compared to PSBs), bank quarters or HRA, medical allowance, leave encashment, pension scheme (NPS), festival advance.
+* **Exact Eligibility:**
+  * **Office Assistant:** Bachelor's Degree in ANY discipline. Proficiency in local language of the State/UT. Age: 18 to 28 years.
+  * **Officer Scale-I:** Bachelor's Degree in any discipline (B.Tech CSE candidates given strong technical preference). Age: 18 to 30 years.
+  * **Diploma Lateral Entry B.Tech:** 100% Eligible! (AICTE Recognized Bachelor's Degree is accepted).
+* **Salary Structure:**
+  * **Office Assistant:** Pay scale starting ₹19,900. **Gross Monthly Salary:** **~₹35,000 – ₹40,000/month**.
+  * **Officer Scale-I:** Pay scale starting ₹36,000. **Gross Monthly Salary:** **~₹62,000 – ₹70,000/month**.
+* **Amount to Pay for Apply:**
+  * ₹850 (UR / EWS / OBC) | ₹175 (SC / ST / PwBD).
+* **Selection Process & Exam Pattern:**
+  * **Stage 1: Preliminary Exam (Crucial: NO ENGLISH SECTION!):**
+    * Total Questions: 80 | Total Marks: 80 | Total Composite Time: 45 Minutes (No Sectional Timer).
+    * Reasoning Ability: 40 Questions, 40 Marks.
+    * Quantitative Aptitude: 40 Questions, 40 Marks.
+  * **Stage 2: Main Exam (200 Questions, 200 Marks, 2 Hours):**
+    * Reasoning (50m), Quantitative Aptitude (50m), General Awareness (40m), English OR Hindi Language (40m), Computer Knowledge (20m - very easy for CSE graduates!).
+  * **Stage 3 (For Officer Scale-I only):** Personal Interview (100 Marks). (No interview for Office Assistant - 100% marks based selection on Mains).
+* **Previous Cutoffs (State-wise Trends):**
+  * Office Assistant Prelims: **68 to 74 / 80** (Very high speed required).
+  * Officer Scale-I Prelims: **48 to 56 / 80** (Moderate difficulty).
+* **Direct Official Links:** [https://www.ibps.in](https://www.ibps.in)
+
+---
+
+## 27. IBPS Clerk CRP XVI — Clerical Cadre Recruitment 2026
+
+* **Organization & Post:** IBPS on behalf of 11 Public Sector Participating Banks (PNB, Bank of Baroda, Canara Bank, Union Bank, etc.) | **Post:** Clerk / Customer Service Associate (CSA).
+* **Job Profile & Benefits:**
+  * Front-desk operations, cash handling, customer transactions, digital banking assistance, KYC verification.
+  * **Benefits:** Fixed 10:00 AM – 5:00 PM working hours, no rotational night shifts, local home-state postings, medical aid, 30 days privilege leave, casual leaves, defined NPS pension.
+* **Exact Eligibility:**
+  * Bachelor's degree (Graduation) in any discipline from a recognized University.
+  * Age: 20 to 28 years (Relaxation: +3 yrs for OBC, +5 yrs for SC/ST).
+  * Computer Literacy: Operating and working knowledge in computer systems is mandatory (B.Tech CSE degree satisfies this automatically without any separate certificate!).
+  * Diploma Lateral Entry B.Tech: 100% Eligible.
+* **Salary Structure:**
+  * Revised under 12th Bipartite Settlement: Basic starting ₹24,050.
+  * **Gross Monthly Salary:** **~₹38,000 – ₹45,000/month** (depending on city classification).
+* **Amount to Pay for Apply:**
+  * ₹850 (UR / EWS / OBC) | ₹175 (SC / ST / PwBD).
+* **Selection Process & Exam Pattern:**
+  * **Stage 1: Preliminary Exam (100 Questions, 100 Marks, 60 Minutes - 20 mins per section):**
+    * English Language: 30 Qs, 30 Marks (20 mins).
+    * Numerical Ability: 35 Qs, 35 Marks (20 mins).
+    * Reasoning Ability: 35 Qs, 35 Marks (20 mins).
+  * **Stage 2: Main Exam (190 Questions, 200 Marks, 160 Minutes):**
+    * General / Financial Awareness: 50 Qs, 50 Marks (35 mins).
+    * General English: 40 Qs, 40 Marks (35 mins).
+    * Reasoning Ability & Computer Aptitude: 50 Qs, 60 Marks (45 mins).
+    * Quantitative Aptitude: 50 Qs, 50 Marks (45 mins).
+  * **No Interview:** Final provisional allotment is purely based on Mains merit score!
+* **Previous Cutoffs (State-wise Trends):**
+  * Prelims: **72 to 80 / 100** (General/EWS).
+* **Direct Official Links:** [https://www.ibps.in](https://www.ibps.in)
+

@@ -4,11 +4,19 @@ A curated repository of high-yield government opportunities, legal eligibility f
 
 ---
 
+## 🚨 Active Target Exams (Scheduled This Month)
+
+| Guide | Description | Key Focus |
+| :--- | :--- | :--- |
+| **[`08_CRASH_TARGET_IBPS_RRB_CLERK_RRB_JE_30_DAYS.md`](./08_CRASH_TARGET_IBPS_RRB_CLERK_RRB_JE_30_DAYS.md)** | **🔥 30-Day Emergency Crash Blueprint** | **IBPS RRB 15th (13,706 posts) + IBPS Clerk XVI + RRB JE (CEN 04/2026). Universal 80% overlap strategy, sectional time allocation, daily routine & cutoff clearance.** |
+
+---
+
 ## 📚 Master Strategic Guides
 
 | Guide | Description | Key Focus |
 | :--- | :--- | :--- |
-| **[`01_ALL_GOVERNMENT_JOBS_MASTER_GUIDE.md`](./01_ALL_GOVERNMENT_JOBS_MASTER_GUIDE.md)** | Master Breakdown of 25+ Top Jobs | Salary, perks, syllabus, cutoff trends, deadlines, direct apply links |
+| **[`01_ALL_GOVERNMENT_JOBS_MASTER_GUIDE.md`](./01_ALL_GOVERNMENT_JOBS_MASTER_GUIDE.md)** | Master Breakdown of 27 Top Jobs | Salary, perks, syllabus, cutoff trends, deadlines, direct apply links (includes RRB JE, IBPS RRB & IBPS Clerk) |
 | **[`02_GOVERNMENT_SCHEMES_AND_BENEFITS_GUIDE.md`](./02_GOVERNMENT_SCHEMES_AND_BENEFITS_GUIDE.md)** | Welfare Schemes & Subsidies | NATS 2.0 DBT stipends, Digital India, AI grants, EWS rules, loan interest waiver |
 | **[`03_ZERO_COST_OPPORTUNITIES_DIRECTORY.md`](./03_ZERO_COST_OPPORTUNITIES_DIRECTORY.md)** | ₹0 Application Fee Directory | Army TGC, Navy SSC IT, DRDO PXE, SAIL Bhilai, walk-in technical posts |
 | **[`04_SMART_WORK_HIGH_PROBABILITY_JOBS.md`](./04_SMART_WORK_HIGH_PROBABILITY_JOBS.md)** | Low Competition / Smart Work | Degree-filtered exams, direct SSB entries, IBPS SO 24% cutoff strategy |
@@ -20,14 +28,16 @@ A curated repository of high-yield government opportunities, legal eligibility f
 
 ## 🗂️ Previous Years Question Papers Vault (`pyq_papers/`)
 
+- **[`pyq_papers/06_IBPS_RRB_Gramin_Bank_and_Clerk/`](./pyq_papers/06_IBPS_RRB_Gramin_Bank_and_Clerk/)**:
+  - `IBPS_RRB_Gramin_Bank_and_Clerk_Actual_Prelims_Sets.md`: Speed Math, Quadratic sign tricks, Syllogisms, Inequalities & RRB JE CBT-1 General Science NCERT questions.
+- **[`pyq_papers/03_RRB_NTPC_and_JE/`](./pyq_papers/03_RRB_NTPC_and_JE/)**:
+  - `MEGA_QUESTION_BANK_RRB_NTPC_SSC_APTITUDE.md`: Large set of Aptitude, Speed Math, Data Interpretation, and Reasoning questions.
+  - `RRB_NTPC_Graduate_CBT1_CBT2_Actual_Papers.md`: Solved CBT 1 and CBT 2 exam papers.
 - **[`pyq_papers/01_ISRO_Computer_Science/`](./pyq_papers/01_ISRO_Computer_Science/)**:
   - `MEGA_QUESTION_BANK_CS_IT_TECHNICAL.md`: High-volume technical questions (OS, DBMS, Computer Networks, Data Structures, Algorithms).
   - `ISRO_Scientist_CS_Previous_Years_Question_Set.md`: Solved questions with detailed step-by-step explanations.
 - **[`pyq_papers/02_UPSC_Civil_Services/`](./pyq_papers/02_UPSC_Civil_Services/)**:
   - Official downloaded question paper PDFs: UPSC CSE 2024 & 2025 General Studies Papers 1, 2, and 3.
-- **[`pyq_papers/03_RRB_NTPC_and_JE/`](./pyq_papers/03_RRB_NTPC_and_JE/)**:
-  - `MEGA_QUESTION_BANK_RRB_NTPC_SSC_APTITUDE.md`: Large set of Aptitude, Speed Math, Data Interpretation, and Reasoning questions.
-  - `RRB_NTPC_Graduate_CBT1_CBT2_Actual_Papers.md`: Solved CBT 1 and CBT 2 exam papers.
 - **[`pyq_papers/04_IBPS_SO_IT_Officer/`](./pyq_papers/04_IBPS_SO_IT_Officer/)**:
   - `IBPS_SO_IT_Officer_Professional_Knowledge_Papers.md`: Complete solved Professional Knowledge IT papers (DBMS, Software Engineering, Info Security, Web Tech).
 - **[`pyq_papers/05_Army_TGC_SSB_OIR/`](./pyq_papers/05_Army_TGC_SSB_OIR/)**:
