@@ -23,6 +23,7 @@ A curated repository of high-yield government opportunities, legal eligibility f
 | **[`05_DIPLOMA_LATERAL_ENTRY_ELIGIBILITY_GUIDE.md`](./05_DIPLOMA_LATERAL_ENTRY_ELIGIBILITY_GUIDE.md)** | Diploma + Lateral Entry Guide | AICTE legal equivalence (10th + 3-Yr Diploma + 3-Yr B.Tech, No 12th) & portal walkthroughs |
 | **[`06_PARETO_80_20_HIGH_YIELD_SYLLABUS_GUIDE.md`](./06_PARETO_80_20_HIGH_YIELD_SYLLABUS_GUIDE.md)** | 80/20 High-Yield Syllabus Guide | Study 20% high-frequency topics (DBMS, OS, CN, DSA, Quant 6, Reasoning 5) to score 80% marks |
 | **[`07_ACTUAL_PREVIOUS_5_YEARS_QUESTION_BANK_AND_RESOURCES.md`](./07_ACTUAL_PREVIOUS_5_YEARS_QUESTION_BANK_AND_RESOURCES.md)** | Department-wise PYQs & Keys | Solved questions, recurring question patterns, and verified paper repositories |
+| **[`09_SARKARI_RESULT_ALL_ACTIVE_JOBS_DIRECTORY.md`](./09_SARKARI_RESULT_ALL_ACTIVE_JOBS_DIRECTORY.md)** | **Sarkari Result Live Jobs Directory** | **Real-time tracker of all active Central & State government vacancies (Railway, SSC, Banking, High Court, Sub-Engineer, Police SI)** |
 
 ---
 
